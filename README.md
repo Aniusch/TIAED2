@@ -1,2 +1,4 @@
-# TIAED2
-Trabalho I AED@
+#Trabalho I AED2
+
+O objetivo do trabalho é simular as propostas da Secretaria de Mobilidade Urbana para reduzir o tempo de espera de todos os veículos em um cruzamento em formato de T, onde não há semáforo, apenas uma rotatória. Cerca de 500 veículos percorrem cada via durante o horário de pico, sendo 20% ônibus e 80% carros, com apenas 1% de veículos prioritários. A passagem de um veículo prioritário aumenta entre 50-60% o tempo de permanência dos demais veículos, e a ocorrência de uma colisão entre veículos aumenta entre 20-30% o tempo de permanência de todos os veículos. Cada motorista possui um tempo de reação que influencia seu tempo de entrada e saída da rotatória. As duas propostas definidas pela Secretaria de Mobilidade Urbana são a construção de uma terceira pista em cada via, restrita a ônibus e veículos prioritários, ou a implantação de semáforos, permitindo a passagem de 15 veículos da mesma via de uma única vez. O trabalho visa realizar simulações para quatro cenários, a fim de determinar qual das propostas é capaz de reduzir o tempo de espera para todos os veículos.
+
