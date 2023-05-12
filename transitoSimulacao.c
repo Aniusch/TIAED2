@@ -3,9 +3,6 @@
 #include <time.h>
 #include <stdbool.h>
 
-// Aluno: Gabriel Jose do Amaral Schuina
-// RGA: 202121901017
-
 #define NUM_VIAS 3
 #define NUM_PISTAS 2 // pistas por via
 #define MAX_VEICULOS 20 // quantidade maxima de veiculos em uma via por vez
